@@ -80,7 +80,7 @@ const products = [
   {
     id: 6,
     title: "Adidas",
-    price: 99,
+    price: 139,
     colors: [
       {
         code: "green",
