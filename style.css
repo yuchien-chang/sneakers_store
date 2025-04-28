@@ -65,7 +65,7 @@ html {
   
   .sliderWrapper {
     display: flex;
-    width: 500vw;
+    width: 1000vw;
     transition: all 1.5s ease-in-out;
   }
   
@@ -142,7 +142,10 @@ html {
     background-color: cornflowerblue;
   }
   .sliderItem:nth-child(5) .sliderBg {
-    background-color: rgb(124, 115, 80);
+    background-color: rgb(117, 163, 152);
+  }
+  .sliderItem:nth-child(6) .sliderBg {
+    background-color: rgb(143, 218, 163);
   }
   
   .sliderItem:nth-child(1) .sliderPrice {
@@ -282,7 +285,7 @@ html {
     cursor: pointer;
     padding: 2px;
   }
-  
+
   .productImg {
     width: 50%;
   }
